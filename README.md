@@ -1,4 +1,4 @@
-# phpfbsession
+# [phpfbsession](https://github.com/nemanjan00/phpfbsession)
 
 Script for maintaining session from browser for facebook automation
 
