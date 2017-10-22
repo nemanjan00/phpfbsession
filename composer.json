@@ -1,0 +1,13 @@
+{
+    "name": "nemanjan00/like-invite",
+    "authors": [
+        {
+            "name": "Nemanja Nedeljković",
+            "email": "nemanjan00@gmail.com"
+        }
+    ],
+    "require": {
+        "paquettg/php-html-parser": "^1.7",
+        "php-school/cli-menu": "^1.0"
+    }
+}
